@@ -18,7 +18,8 @@ class AppServiceProvider extends ServiceProvider
     }
 
     /**
-     * Bootstrap any application services.
+     * Bootstrap a
+     * ny application services.
      *
      * @return void
      */
